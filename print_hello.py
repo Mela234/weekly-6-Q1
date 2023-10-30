@@ -10,3 +10,6 @@ def reverse(arr):
         l, r = l + 1, r - 1
     return arr
 
+
+print("this is a code that reverses an array") 
+
